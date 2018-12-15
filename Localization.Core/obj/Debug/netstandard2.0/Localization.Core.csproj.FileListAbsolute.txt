@@ -1,0 +1,9 @@
+/Users/alireza/Projects/Localization/Localization.Core/bin/Debug/netstandard2.0/Localization.Core.deps.json
+/Users/alireza/Projects/Localization/Localization.Core/bin/Debug/netstandard2.0/Localization.Core.dll
+/Users/alireza/Projects/Localization/Localization.Core/bin/Debug/netstandard2.0/Localization.Core.pdb
+/Users/alireza/Projects/Localization/Localization.Core/obj/Debug/netstandard2.0/Localization.Core.csprojAssemblyReference.cache
+/Users/alireza/Projects/Localization/Localization.Core/obj/Debug/netstandard2.0/Localization.Core.csproj.CoreCompileInputs.cache
+/Users/alireza/Projects/Localization/Localization.Core/obj/Debug/netstandard2.0/Localization.Core.AssemblyInfoInputs.cache
+/Users/alireza/Projects/Localization/Localization.Core/obj/Debug/netstandard2.0/Localization.Core.AssemblyInfo.cs
+/Users/alireza/Projects/Localization/Localization.Core/obj/Debug/netstandard2.0/Localization.Core.dll
+/Users/alireza/Projects/Localization/Localization.Core/obj/Debug/netstandard2.0/Localization.Core.pdb

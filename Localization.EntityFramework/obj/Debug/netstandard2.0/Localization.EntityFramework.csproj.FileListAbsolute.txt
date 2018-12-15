@@ -1,0 +1,12 @@
+/Users/alireza/Projects/Localization/Localization.EntityFramework/bin/Debug/netstandard2.0/Localization.EntityFramework.deps.json
+/Users/alireza/Projects/Localization/Localization.EntityFramework/bin/Debug/netstandard2.0/Localization.EntityFramework.dll
+/Users/alireza/Projects/Localization/Localization.EntityFramework/bin/Debug/netstandard2.0/Localization.EntityFramework.pdb
+/Users/alireza/Projects/Localization/Localization.EntityFramework/bin/Debug/netstandard2.0/Localization.Core.dll
+/Users/alireza/Projects/Localization/Localization.EntityFramework/bin/Debug/netstandard2.0/Localization.Core.pdb
+/Users/alireza/Projects/Localization/Localization.EntityFramework/obj/Debug/netstandard2.0/Localization.EntityFramework.csprojAssemblyReference.cache
+/Users/alireza/Projects/Localization/Localization.EntityFramework/obj/Debug/netstandard2.0/Localization.EntityFramework.csproj.CoreCompileInputs.cache
+/Users/alireza/Projects/Localization/Localization.EntityFramework/obj/Debug/netstandard2.0/Localization.EntityFramework.AssemblyInfoInputs.cache
+/Users/alireza/Projects/Localization/Localization.EntityFramework/obj/Debug/netstandard2.0/Localization.EntityFramework.AssemblyInfo.cs
+/Users/alireza/Projects/Localization/Localization.EntityFramework/obj/Debug/netstandard2.0/Localization.EntityFramework.csproj.CopyComplete
+/Users/alireza/Projects/Localization/Localization.EntityFramework/obj/Debug/netstandard2.0/Localization.EntityFramework.dll
+/Users/alireza/Projects/Localization/Localization.EntityFramework/obj/Debug/netstandard2.0/Localization.EntityFramework.pdb

@@ -1,0 +1,12 @@
+/Users/alireza/Projects/Localization/Localization.Json/obj/Debug/netstandard2.0/Localization.Json.csprojAssemblyReference.cache
+/Users/alireza/Projects/Localization/Localization.Json/obj/Debug/netstandard2.0/Localization.Json.csproj.CoreCompileInputs.cache
+/Users/alireza/Projects/Localization/Localization.Json/obj/Debug/netstandard2.0/Localization.Json.AssemblyInfoInputs.cache
+/Users/alireza/Projects/Localization/Localization.Json/obj/Debug/netstandard2.0/Localization.Json.AssemblyInfo.cs
+/Users/alireza/Projects/Localization/Localization.Json/bin/Debug/netstandard2.0/Localization.Json.deps.json
+/Users/alireza/Projects/Localization/Localization.Json/bin/Debug/netstandard2.0/Localization.Json.dll
+/Users/alireza/Projects/Localization/Localization.Json/bin/Debug/netstandard2.0/Localization.Json.pdb
+/Users/alireza/Projects/Localization/Localization.Json/bin/Debug/netstandard2.0/Localization.Core.dll
+/Users/alireza/Projects/Localization/Localization.Json/bin/Debug/netstandard2.0/Localization.Core.pdb
+/Users/alireza/Projects/Localization/Localization.Json/obj/Debug/netstandard2.0/Localization.Json.csproj.CopyComplete
+/Users/alireza/Projects/Localization/Localization.Json/obj/Debug/netstandard2.0/Localization.Json.dll
+/Users/alireza/Projects/Localization/Localization.Json/obj/Debug/netstandard2.0/Localization.Json.pdb
