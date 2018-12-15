@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLocalizationRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizationRecord>
+    <Id>0</Id>
+    <Name>test02</Name>
+    <Value>alireza2</Value>
+    <CultureName />
+    <ResourceName>CULTURE__RESOURCE_SharedResource_NAME_test02_CACHE_KEY</ResourceName>
+    <TenantId xsi:nil="true" />
+  </LocalizationRecord>
+  <LocalizationRecord>
+    <Id>0</Id>
+    <Name>test03</Name>
+    <Value>alireza3</Value>
+    <CultureName />
+    <ResourceName>CULTURE__RESOURCE_SharedResource_NAME_test03_CACHE_KEY</ResourceName>
+    <TenantId xsi:nil="true" />
+  </LocalizationRecord>
+  <LocalizationRecord>
+    <Id>0</Id>
+    <Name>test04</Name>
+    <Value>alireza4</Value>
+    <CultureName />
+    <ResourceName>CULTURE__RESOURCE_SharedResource_NAME_test04_CACHE_KEY</ResourceName>
+    <TenantId xsi:nil="true" />
+  </LocalizationRecord>
+</ArrayOfLocalizationRecord>

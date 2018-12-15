@@ -1,0 +1,8 @@
+/Users/alireza/Projects/Localization/Localization/bin/Debug/netcoreapp2.1/Localization.deps.json
+/Users/alireza/Projects/Localization/Localization/bin/Debug/netcoreapp2.1/Localization.dll
+/Users/alireza/Projects/Localization/Localization/bin/Debug/netcoreapp2.1/Localization.pdb
+/Users/alireza/Projects/Localization/Localization/obj/Debug/netcoreapp2.1/Localization.csproj.CoreCompileInputs.cache
+/Users/alireza/Projects/Localization/Localization/obj/Debug/netcoreapp2.1/Localization.AssemblyInfoInputs.cache
+/Users/alireza/Projects/Localization/Localization/obj/Debug/netcoreapp2.1/Localization.AssemblyInfo.cs
+/Users/alireza/Projects/Localization/Localization/obj/Debug/netcoreapp2.1/Localization.dll
+/Users/alireza/Projects/Localization/Localization/obj/Debug/netcoreapp2.1/Localization.pdb
