@@ -4,6 +4,10 @@ In order to extend built-in localization structure of ASP.net Core, I extended i
 
 Feel free to ask any question: alirezakhosravi [at] live.com
 
+https://www.nuget.org/packages/Raveshmand.Localization.Xml/
+https://www.nuget.org/packages/Raveshmand.Localization.Json/
+https://www.nuget.org/packages/Raveshmand.Localization.EntityFramework/
+
 ### Configuring Xml Localizarion
 On ``Startup.cs`` you must add ``services.AddXmlLocalization(option=> { });``
 
