@@ -2,21 +2,21 @@
 
 Feel free to ask any question: alirezakhosravi [at] live.com
 
-###Configuration Xml Localizarion
+### Configuration Xml Localizarion
 On ``Startup.cs`` you must add ``services.AddXmlLocalization(option=> { });``
 
 ```
 services.AddXmlLocalization(option => { });
 ```
 
-###Configuration Json Localizarion
+### Configuration Json Localizarion
 On ``Startup.cs`` you must add ``services.AddJsonLocalization(option=> { });``
 
 ```
 services.AddJsonLocalization(option => { });
 ```
 
-###Configuration EntityFramework Localizarion
+### Configuration EntityFramework Localizarion
 On ``Startup.cs`` you must add ``services.AddDbLocalization<Context>(option=> { });``
 
 ```
