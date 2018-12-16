@@ -1,4 +1,5 @@
 # ASP.net Core Localization
+Creating a multilingual website with ASP.NET Core will allow your site to reach a wider audience. ASP.NET Core provides services and middleware for localizing into different languages and cultures.
 
 Feel free to ask any question: alirezakhosravi [at] live.com
 
