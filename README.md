@@ -1,23 +1,24 @@
 # ASP.net Core Localization
 Creating a multilingual website with ASP.NET Core will allow your site to reach a wider audience. ASP.NET Core provides services and middleware for localizing into different languages and cultures.
+In order to extend built-in localization structure of ASP.net Core, I extended it and you can create XML, Json or EntityFramework concretes as your repository, now. Below you can find configuration of each model.
 
 Feel free to ask any question: alirezakhosravi [at] live.com
 
-### Configuration Xml Localizarion
+### Configuring Xml Localizarion
 On ``Startup.cs`` you must add ``services.AddXmlLocalization(option=> { });``
 
 ```
 services.AddXmlLocalization(option => { });
 ```
 
-### Configuration Json Localizarion
+### Configuring Json Localizarion
 On ``Startup.cs`` you must add ``services.AddJsonLocalization(option=> { });``
 
 ```
 services.AddJsonLocalization(option => { });
 ```
 
-### Configuration EntityFramework Localizarion
+### Configuring EntityFramework Localizarion
 On ``Startup.cs`` you must add ``services.AddDbLocalization<Context>(option=> { });``
 
 ```
@@ -49,12 +50,12 @@ namespace Localization.MvcTest.Models
 ```
 
 ### Set Caching
-Deault caching in this solution used ``IMemoryCache``, for change this interface to ``IDistributedCache`` you can changed this interface on option.
+Deault caching in this solution is ``IMemoryCache``, for change it,you should change this interface to ``IDistributedCache``. you can change this interface on option.
 ```
 services.AddDbLocalization<Context>(option => { option.CacheDependency = CacheOption.IDistributedCache; });
 ```
 
-### Use localization on controller
+### Use localization in controllers
 ```
     public class BaseController : Controller
     {
@@ -112,7 +113,7 @@ services.AddDbLocalization<Context>(option => { option.CacheDependency = CacheOp
     }
 ```
 
-### Crud action on localization in application
+### Crud actions on localization in application
 ```
     public class HomeController : BaseController
     {
@@ -132,7 +133,7 @@ services.AddDbLocalization<Context>(option => { option.CacheDependency = CacheOp
     }
 ```
 
-### Use localization on view
+### Use localization in views
 ```
 namespace Localization.MvcTest.Infrastructure
 {
