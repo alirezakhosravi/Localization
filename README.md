@@ -133,6 +133,8 @@ services.AddDbLocalization<Context>(option => { option.CacheDependency = CacheOp
 
 ### Use localization on view
 ```
+namespace Localization.MvcTest.Infrastructure
+{
     public abstract class WebViewPageBase : WebViewPageBase<dynamic>
     {
     }
@@ -164,6 +166,7 @@ services.AddDbLocalization<Context>(option => { option.CacheDependency = CacheOp
             return HtmlLocalizer.GetString(name);
         }
     }
+}
 ```
 ```
 @inherits Localization.MvcTest.Infrastructure.WebViewPageBase
