@@ -1,4 +1,4 @@
-# ASP.net Core Development Localization
+# ASP.net Core Localization
 
 Feel free to ask any question: alirezakhosravi [at] live.com
 
