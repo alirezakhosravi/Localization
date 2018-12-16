@@ -6,14 +6,14 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
-using Localization.Core;
-using Localization.EntityFramework.Extentions;
+using Raveshmand.Localization.Core;
+using Raveshmand.Localization.EntityFramework.Extentions;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Options;
 
-namespace Localization.EntityFramework
+namespace Raveshmand.Localization.EntityFramework
 {
     public class EFLocalizationCrud<TContext> : ILocalizerCrud
         where TContext : DbContext

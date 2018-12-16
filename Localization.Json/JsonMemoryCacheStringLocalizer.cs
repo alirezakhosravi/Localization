@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Threading.Tasks;
-using Localization.Core;
-using Localization.Json.IO;
+using Raveshmand.Localization.Core;
+using Raveshmand.Localization.Json.IO;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Localization;
 
-namespace Localization.Json
+namespace Raveshmand.Localization.Json
 {
     public class JsonMemoryCacheStringLocalizer : BaseStringLocalization, IStringLocalizer
     {

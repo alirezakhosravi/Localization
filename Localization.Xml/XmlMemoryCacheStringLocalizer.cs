@@ -2,13 +2,12 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Threading.Tasks;
-using Localization.Core;
-using Localization.Xml.IO;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Localization;
-using Microsoft.Extensions.Logging;
+using Raveshmand.Localization.Core;
+using Raveshmand.Localization.Xml.IO;
 
-namespace Localization.Xml
+namespace Raveshmand.Localization.Xml
 {
     public class XmlMemoryCacheStringLocalizer : BaseStringLocalization, IStringLocalizer
     {

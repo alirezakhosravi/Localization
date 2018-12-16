@@ -6,7 +6,7 @@ using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Localization;
 using Microsoft.Extensions.Options;
 
-namespace Localization.EntityFramework
+namespace Raveshmand.Localization.EntityFramework
 {
     public class EFStringLocalizerFactory<TContext> : IStringLocalizerFactory
         where TContext : DbContext

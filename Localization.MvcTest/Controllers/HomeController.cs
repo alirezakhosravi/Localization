@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using Localization.MvcTest.Models;
 using Microsoft.AspNetCore.Mvc;
-using Localization.Core;
+using Raveshmand.Localization.Core;
 using System.Globalization;
 using Microsoft.Extensions.Localization;
 using Localization.MvcTest.Infrastructure;

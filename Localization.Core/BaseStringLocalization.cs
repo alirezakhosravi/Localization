@@ -2,7 +2,7 @@
 using System.Globalization;
 using Microsoft.Extensions.Localization;
 
-namespace Localization.Core
+namespace Raveshmand.Localization.Core
 {
     public class BaseStringLocalization : IStringLocalizer
     {

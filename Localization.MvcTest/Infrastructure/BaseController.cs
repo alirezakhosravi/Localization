@@ -1,5 +1,5 @@
 ﻿using System;
-using Localization.Core;
+using Raveshmand.Localization.Core;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Localization;
 

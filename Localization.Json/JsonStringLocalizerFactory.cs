@@ -3,10 +3,9 @@ using System.Collections.Concurrent;
 using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Localization;
-using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Localization.Json
+namespace Raveshmand.Localization.Json
 {
     public class JsonStringLocalizerFactory : IStringLocalizerFactory
     {

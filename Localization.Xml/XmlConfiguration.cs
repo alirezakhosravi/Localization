@@ -1,6 +1,6 @@
-﻿using Localization.Core;
+﻿using Raveshmand.Localization.Core;
 
-namespace Localization.Xml
+namespace Raveshmand.Localization.Xml
 {
     internal static class XmlConfiguration
     {

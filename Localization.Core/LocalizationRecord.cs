@@ -1,4 +1,4 @@
-﻿namespace Localization.Core
+﻿namespace Raveshmand.Localization.Core
 {
     public class LocalizationRecord
     {

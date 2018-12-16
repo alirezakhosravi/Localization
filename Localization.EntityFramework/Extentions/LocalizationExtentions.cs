@@ -1,10 +1,10 @@
 ﻿using System;
-using Localization.Core;
+using Raveshmand.Localization.Core;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Localization;
 
-namespace Localization.EntityFramework.Extentions
+namespace Raveshmand.Localization.EntityFramework.Extentions
 {
     public static class LocalizationExtentions
     {

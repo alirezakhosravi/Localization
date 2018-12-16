@@ -1,8 +1,8 @@
-﻿using Localization.Core;
+﻿using Raveshmand.Localization.Core;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Localization.EntityFramework
+namespace Raveshmand.Localization.EntityFramework
 {
     public class LocalizationRecordConfiguration : IEntityTypeConfiguration<LocalizationRecord>
     {

@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using Localization.Core;
-using Localization.Xml.IO;
+using Raveshmand.Localization.Core;
+using Raveshmand.Localization.Xml.IO;
 using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 
-namespace Localization.Xml
+namespace Raveshmand.Localization.Xml
 {
     public class XmlLocalizationCrud : ILocalizerCrud
     {

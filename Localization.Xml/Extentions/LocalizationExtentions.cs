@@ -1,9 +1,9 @@
 ﻿using System;
-using Localization.Core;
+using Raveshmand.Localization.Core;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Localization;
 
-namespace Localization.Xml.Extentions
+namespace Raveshmand.Localization.Xml.Extentions
 {
     public static class LocalizationExtentions
     {

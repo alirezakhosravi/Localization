@@ -1,8 +1,8 @@
 ﻿using System.IO;
-using Localization.Core;
+using Raveshmand.Localization.Core;
 using Newtonsoft.Json;
 
-namespace Localization.Json.IO
+namespace Raveshmand.Localization.Json.IO
 {
     public static class JsonReader
     {

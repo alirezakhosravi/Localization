@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Localization.EntityFramework.Extentions
+namespace Raveshmand.Localization.EntityFramework.Extentions
 {
     public static class DependencyExtensions
     {

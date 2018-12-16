@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Globalization;
 using System.Linq;
-using Localization.Core;
-using Localization.Core.Extentions;
-using Localization.EntityFramework.Extentions;
+using Raveshmand.Localization.Core;
+using Raveshmand.Localization.Core.Extentions;
+using Raveshmand.Localization.EntityFramework.Extentions;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Localization;
 
-namespace Localization.EntityFramework
+namespace Raveshmand.Localization.EntityFramework
 {
     public class EFMemoryCacheStringLocalizer<TContext> : BaseStringLocalization, IStringLocalizer
         where TContext : DbContext

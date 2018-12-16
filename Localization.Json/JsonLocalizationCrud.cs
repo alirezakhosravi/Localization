@@ -6,13 +6,13 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
-using Localization.Core;
-using Localization.Json.IO;
+using Raveshmand.Localization.Core;
+using Raveshmand.Localization.Json.IO;
 using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Options;
 
-namespace Localization.Json
+namespace Raveshmand.Localization.Json
 {
     public class JsonLocalizationCrud : ILocalizerCrud
     {

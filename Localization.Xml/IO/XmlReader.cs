@@ -3,9 +3,9 @@ using System.IO;
 using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
-using Localization.Core;
+using Raveshmand.Localization.Core;
 
-namespace Localization.Xml.IO
+namespace Raveshmand.Localization.Xml.IO
 {
     public static class XmlReader
     {

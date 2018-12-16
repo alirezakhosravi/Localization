@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Caching.Distributed;
 
-namespace Localization.Core.Extentions
+namespace Raveshmand.Localization.Core.Extentions
 {
     public static class DistributedCacheExtensions
     {

@@ -1,10 +1,7 @@
-﻿using System;
-using System.Globalization;
-using Localization.Core;
-using Microsoft.AspNetCore.Mvc.Localization;
-using Microsoft.AspNetCore.Mvc.Razor;
+﻿using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.AspNetCore.Mvc.Razor.Internal;
 using Microsoft.Extensions.Localization;
+using Raveshmand.Localization.Core;
 
 namespace Localization.MvcTest.Infrastructure
 {

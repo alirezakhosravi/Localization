@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Localization.Core
+namespace Raveshmand.Localization.Core
 {
     public interface ILocalizerCrud
     {

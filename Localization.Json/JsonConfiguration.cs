@@ -1,6 +1,6 @@
-﻿using Localization.Core;
+﻿using Raveshmand.Localization.Core;
 
-namespace Localization.Json
+namespace Raveshmand.Localization.Json
 {
     internal static class JsonConfiguration
     {

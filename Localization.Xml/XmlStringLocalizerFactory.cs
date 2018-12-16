@@ -5,7 +5,7 @@ using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Localization;
 using Microsoft.Extensions.Options;
 
-namespace Localization.Xml
+namespace Raveshmand.Localization.Xml
 {
     public class XmlStringLocalizerFactory : IStringLocalizerFactory
     {
